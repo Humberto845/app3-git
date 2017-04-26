@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>24</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>wow</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>collage,seven,rotate</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files/WOW Slider/templates/backgnd/absent/</ImageTemplate>
+            <ImageTemplateName>Absent</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>E:/DAM/2 PARCIAL/Aplicaciones/app3/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>E:/DAM/2 PARCIAL/Aplicaciones/app3</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>Slabo 27px</TemplateFont>
+            <TemplateName>absent</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>E:/DAM/2 PARCIAL/Aplicaciones/app3/img2/asp.net 4.0.jpg</url>
+                <title>asp.net 4.0</title>
+                <filesize>111337</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/2 PARCIAL/Aplicaciones/app3/img2/Comunicaciones y redes de computadores - Prentice Hall Stallings, William.png</url>
+                <title>Comunicaciones y redes de computadores - Prentice Hall Stallings, William</title>
+                <filesize>469833</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/2 PARCIAL/Aplicaciones/app3/img2/estructurasdedatos.jpg</url>
+                <title>estructurasdedatos</title>
+                <filesize>198037</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/2 PARCIAL/Aplicaciones/app3/img2/fundamentos de redes.jpg</url>
+                <title>fundamentos de redes</title>
+                <filesize>6627</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/2 PARCIAL/Aplicaciones/app3/img2/java como programar.jpg</url>
+                <title>java como programar</title>
+                <filesize>384753</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/2 PARCIAL/Aplicaciones/app3/img2/programacion avanzada con sql server.jpg</url>
+                <title>programacion avanzada con sql server</title>
+                <filesize>36147</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/2 PARCIAL/Aplicaciones/app3/img2/programacion en java.jpg</url>
+                <title>programacion en java</title>
+                <filesize>5259</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/2 PARCIAL/Aplicaciones/app3/img2/redes de computadoras.png</url>
+                <title>redes de computadoras</title>
+                <filesize>126506</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/2 PARCIAL/Aplicaciones/app3/img2/reparacion de computadoras.jpg</url>
+                <title>reparacion de computadoras</title>
+                <filesize>74970</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/2 PARCIAL/Aplicaciones/app3/img2/sistemas operativos.jpg</url>
+                <title>sistemas operativos</title>
+                <filesize>16120</filesize>
+            </Image>
+            <Image>
+                <url>E:/DAM/2 PARCIAL/Aplicaciones/app3/img2/visual c# 2010.jpg</url>
+                <title>visual c# 2010</title>
+                <filesize>114644</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
